@@ -2,7 +2,7 @@
 
 > a parallax scrolling component inspired by [rallax.js](https://github.com/ChrisCavs/rallax.js)
 
-[![NPM](https://img.shields.io/npm/v/rallax-component.svg)](https://www.npmjs.com/package/rallax-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/rallax-component.svg)](https://www.npmjs.com/package/rallax-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/cbbfcd/rallax-component.svg)](https://greenkeeper.io/)
 
 ## Install
 
